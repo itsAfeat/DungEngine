@@ -1,0 +1,25 @@
+0::1
+m=0;13
+p=15;0
+i=14;0
+e=12;0
+n=10;0
+--
+i0;Smørkniv;1;2;0000100;En helt almindelig kniv
+i1;Torskerogn;2;25;0000001
+i2;Guldmønt;5;0;0000000;Mønter lavet af den fineste (falske) guld man kan finde
+e0;Lille bums;10;2;5
+e1;Slem fyr;20;3;10
+n0;Karl Smart;
+--
+###############
+# e1   #     #i0#
+# ##  # ### # #
+#i2#       # # #
+### ### ### # #
+#         # e0 #
+##### # ##### #
+#   # #    n0# #
+# # # # ##### #
+#i1#      x# #s#
+########### ###
